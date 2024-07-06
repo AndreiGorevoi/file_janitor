@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-# write your script here
 echo "File Janitor, 2024"
 echo "Powered by Bash"
 echo
